@@ -5,7 +5,7 @@
     "license": "GNU-3",
     "autoload": {
         "psr-4": {
-            "Ugurkorkmaz\\CosineSimilarity\\": "src/"
+            "UgurKorkmaz\\CosineSimilarity\\": "src/"
         }
     },
     "authors": [

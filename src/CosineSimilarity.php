@@ -1,8 +1,8 @@
 <?php
 
-namespace UgurKormaz\CosineSimilarity;
+namespace UgurKorkmaz\CosineSimilarity;
 
-class Calculate
+class CosineSimilarity
 {
 	public function __invoke(array $vectorOne, array $vectorSecond): float
 	{
